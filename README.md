@@ -36,12 +36,12 @@ if(!$return){
 ## 目录结构
 
 ~~~
-Sms  WEB部署目录（或者子目录）
+Sms
 ├─Protocol              封装的各平台短信类
-│  │
 │  ├─Smsbao.php         smsbao
 │  ├─Smsyun.php         smsyun
 │  ├─...
+│  
 ├─Sms.php               统一入口
 ├─LICENSE               授权说明文件
 ├─README.md             README 文件
